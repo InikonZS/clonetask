@@ -12,6 +12,38 @@
 - https://en.wikipedia.org/wiki/Need_for_Speed_II
 - https://en.wikipedia.org/wiki/Prince_of_Persia_(1989_video_game)
 
+### Результаты 2020Q1:
+#### Star Fighter
+- [Star Fighter](https://inikon-ragneda-star-fighter.netlify.app/)
+
+#### FTL
+- [О проекте](https://medium.com/@b1122345/%D0%BA%D0%BB%D0%BE%D0%BD-ftl-%D0%BD%D0%B0-phaser-3-e104b9f9f7f4)
+- [Demo: FTL](https://ialeks94-cloneftl.netlify.app/)
+
+#### Prince Of Persia
+- [О проекте](https://medium.com/@kotiknalune/prince-of-persia-on-phaser-3-e3c810943985)
+- [Demo: Prince Of Persia](https://clonewars-prince-of-persia.netlify.app/)
+
+#### The‌ ‌final‌ ‌station
+- [О проекте](https://medium.com/@annarusakovich15/%D0%B8%D0%B3%D1%80%D0%B0-the-final-station-%D0%BD%D0%B0-javascript-c58d1726415e)
+- [Demo: The Final Station](https://the-final-station-js.netlify.app/)
+
+#### GTA
+- [О проекте](https://medium.com/@loremipsumrrr/clonewars-gta-8c1da4e202ba)
+- [Demo: GTA](https://gta-phaser-promo.netlify.app/)
+
+#### Heroes 3
+- [Heroes 3](https://heroes-might-and-magic.netlify.app/)
+
+### Работы других наборов RS School
+
+- Пример игры, которую сделал один из студентов RS2017Q1 в рамках таска Game. Тогда было выделено 
+около 3 недель на разработку 
+[Demo](https://spider-shooter.github.io/about/index.html)
+
+- И еще один пример из RS2017Q1 
+[Demo](https://themarkmarrone.github.io/petrovich/game/index.html)
+
 ## Правила участия
 Участие - строго по вашему желанию.
 Требования к участникам - вы входите в ТОП300 текущего набора.
@@ -84,5 +116,5 @@
 - Canvas, WebGL, SoundAPI и другие встроенные API браузера,
 - React, Angular, Vue
 - Графические движки Threejs, Phaser, Pixi, Babylon
-- Желательно использование Webpack, css препроцессоров, eslint, unit-тестов на Jest или Mocha.
+- Webpack, CSS препроцессоры, eslint, unit-тесты на Jest или Mocha.
 
